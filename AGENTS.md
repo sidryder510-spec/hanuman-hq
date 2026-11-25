@@ -42,7 +42,7 @@ best-time data), AI-disclosure setting. Schedules **only** where the channel all
 otherwise prepares the pack for Sid's approval. Never touches published or scheduled items.
 
 **6. Data Miner & Analyst** (reports to the strategist)
-Pulls numbers (Windsor for YouTube/Instagram/Facebook, Metricool for Mira). Per piece: views, engaged views or
+Reads `data/analytics/` first (free official-API pull); fills gaps from Windsor (while its trial lasts), Metricool (Mira) or FavStash (AMM Instagram). Per piece: views, engaged views or
 reach, average view duration and % viewed, skip rate (Instagram), shares, saves, comments, follows gained,
 geography where it matters. Writes: **good**, **bad**, **improvement area**, and an **RCA** (5-whys to a root cause).
 Says when a sample is too small to conclude anything (under about 100 views or under 3 pieces).

@@ -19,7 +19,8 @@ cadence and audience are different for each channel and live in each team file.
 ## Daily cycle (one run each morning, report to Sid by 09:30 IST)
 
 1. **Hanuman** reads the charter, all three team files, ledgers and yesterday's report.
-2. **Data Miner** for each team pulls yesterday's and the last 7 and 28 days of numbers (Windsor, Metricool) and writes
+2. **Data Miner** for each team reads `data/analytics/latest.md` and the day's JSON first (free official-API pull, 07:47 IST),
+   and uses Windsor, Metricool or FavStash only for what that pull lacks or failed on. It covers yesterday, 7 and 28 days and writes
    the RCA: what worked, what didn't, why (root cause, not symptom), and what to change.
 3. **Each strategist** briefs their agents: one lesson from the RCA carried into today's video, today's topic,
    and the hook direction. At the start of every video the strategist gives a written brief; mid-task the agents
@@ -59,6 +60,7 @@ Escalations go at the top of the daily message, marked **ACTION NEEDED**. Anythi
 - AMM and YugYogii are kept fully separate: no shared repo, assets, accounts or pipelines.
 - Never touch secrets, billing or account settings. Never install anything paid.
 - Free tools first. Track GitHub Actions minutes and image/video tool credits and stop before a limit is hit.
+- Never build a home-made YouTube uploader: uploads from an unaudited API project are locked private. Publish through audited tools (Buffer, Metricool, FavStash) or YouTube Studio.
 
 ## Reach (where "whatever it takes" goes)
 

@@ -14,6 +14,7 @@
 - **No live run until a Short rates at least 9/10.**
 - Zero tool budget: free Kaggle GPU for images; no card, no top-ups.
 - One Short/Reel every day, posted to YouTube, Instagram and Facebook (after Sid's approval).
+- Publishing route: **Buffer free plan** (YugYogii's YouTube, Instagram and Facebook = its 3 free channels; 10 queued posts per channel). Queue only after Sid approves. If Buffer isn't connected yet, deliver the file and posting pack to Sid.
 - **Character series from the week of 30 Nov 2026**, opening with an intro video announcing the series. Character not yet chosen: Mahadev proposes 3 with evidence (search demand, festival timing, story depth for 7+ episodes), Hanuman picks, and Sid is told (not asked) in the report.
 
 ## First run tasks
