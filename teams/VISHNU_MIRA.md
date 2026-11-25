@@ -20,6 +20,7 @@ When Sid sends the images, the team rates each one (bar **9.5/10**), asks for sp
 - AI stated in the bio; no separate AI line in every caption. Apply Meta's AI label where Meta requires it.
 - Cadence: post every day; **Reels on Mon, Wed, Fri, Sun until the skip rate is under 60%**, stills/carousels on other days.
 - Publishing: as of 23 Nov Sid publishes manually (Metricool account-limit issue). Prepare the full pack; schedule in Metricool only if Sid switches back.
+- **Metricool free budget = 20 published posts per calendar month** (only published posts count; resets on the 1st). Spend it on Instagram Reels only (about 17 a month at Mon/Wed/Fri/Sun). Facebook copies go through Instagram's own "share to Facebook" setting, not Metricool. Stills, carousels and Stories go to Sid as ready packs for the Instagram app's built-in scheduler. Track the month's count in every report and stop at 20.
 - Sid's improvement protocol: learn from analytics, find where Mira lags, fix it in the next batch, research comparable accounts. The weekly Sunday summaries (existing scheduled tasks at 10:47 and 18:59 IST) continue; Vishnu reads their output.
 - Outbound comments: Vishnu drafts, Sid posts.
 
