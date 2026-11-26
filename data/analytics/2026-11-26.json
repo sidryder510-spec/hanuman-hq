@@ -1,0 +1,12 @@
+{
+ "date_ist": "2026-11-26",
+ "youtube": {},
+ "meta": {},
+ "skipped": [
+  "youtube amm (no YT_REFRESH_TOKEN_AMM or Google client)",
+  "youtube yugyogii (no YT_REFRESH_TOKEN_YUGYOGII or Google client)",
+  "meta mira-noir (no META_PAGE_TOKEN_MIRA)",
+  "meta yugyogii (no META_PAGE_TOKEN_YUGYOGI)"
+ ],
+ "failed": []
+}
